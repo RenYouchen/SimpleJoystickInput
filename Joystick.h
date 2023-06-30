@@ -17,7 +17,7 @@ class Joystick {
 		struct js_event e;
 		int fd;
 		std::string path;
-		int buttonData[20][1];
-		int axisData[10][1];
+		int buttonData[20][1] = { 0 };
+		int axisData[10][1] = { 0 };
 };
 #endif
