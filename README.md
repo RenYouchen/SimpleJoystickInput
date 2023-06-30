@@ -3,7 +3,9 @@ A simple lib that helps you read joystick input in linux.
 
 # TODO
 add doc
+
 add makefile
+
 (maybe i will never do these)
 
 # Reference
